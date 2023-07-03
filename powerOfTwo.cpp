@@ -13,7 +13,7 @@ int main(){
     for(int i=0;i<=30;i++)
     {
 
-        if(num==n)
+        if(num==n)     //condition for 
            { cout<<"true";
             break;}
         else
